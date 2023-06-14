@@ -1,14 +1,4 @@
-# Commented out IPython magic to ensure Python compatibility.
-from google.colab import drive
-drive.mount('/gdrive')
-# %cd /gdrive
 
-
-from google.colab import drive
-drive.mount('/content/gdrive') 
-
-
-# %cd /content/gdrive/My Drive
 
 """**Libraries**"""
 
